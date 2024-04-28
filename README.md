@@ -1,2 +1,2 @@
-# skripsi
-Repository untuk skripsi
+# SKRIPSI
+Repository Untuk Skripsi

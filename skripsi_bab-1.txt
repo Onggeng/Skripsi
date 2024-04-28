@@ -1,4 +1,8 @@
 Skripsi BAB 1
-- Latar Belakang
-- Rumusan Masalah
-- Penutup
+- Latar belakang masalah
+- Identifikasi masalah
+- Batasan masalah
+- Rumusan masalah
+- Tujuan masalah
+- Manfaat penelitian
+- Sistematika penulisan
